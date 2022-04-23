@@ -1,0 +1,8 @@
+$git innit - Este comando é usado para criar um novo repositório
+$git add * - Utilizado ara incluir todos os arquivos "untrackble" para "staged"
+$git clone <url> - Utilizado para clonar um repositório de dentro do GitHub, ou similar, para o computador
+$git status - Exibe o status atual dos arquivos dentro do repositório
+$git push - Envia os arqivos "commitados" para o GitHub ou similar
+$git remote - Permite que um usuário se conecte a um repositório remoto. O comando a seguir lista os repositórios remotos atualmente configurados
+
+Mais comandos em (https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git)
