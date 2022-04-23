@@ -1,0 +1,49 @@
+####	Introdução a internet;
+
+####	Como funciona internet;
+
+#### TC/IP, portas, roteadores, switches e modems:
+- ###### 20 - FTP;
+- ###### 22 - SSH;
+- ###### 25 - SMTP;
+- ###### 53 - DNS;
+- ###### 80 - HTTP;
+- ###### 443 - HTTPS;
+- ###### 3306 - MySQL.
+
+#### Celular, Internet e Dispositivos Móveis;
+
+#### Browsers, sites, aplicativos e webservers;
+
+#### Stacks;
+- ###### Ambiente e ferramentas de interação, LPS, conjunto de software.
+- ###### Front-end - Lógica de Programação, HTML, CSS, jQuery//JS/AJAX, PHP, Bootstrap/outros frameworks;
+- ###### Back-end - MySQL, Oracle, protocolos de comunicação, PHP, Java, node.js
+- ###### FullStack - Fron-end + Back-end;
+
+#### Linguagens de Programação;
+- ###### Termos comuns;
+- ALT - Texto alternativo gerelmente usado para descritivo em links e imagens;
+- API - Ferramenta direcionada à mover parte do site para um ambiente externo para realizar alguma função específica. Ex. Caixa de login do Google/facebook para logar em site de compras sem a necessidade de cadastramento;
+- Biblioteca/dll - Conjunto de ferramentas para novas funcionalidades;
+- Boostrap - Framework de JavaScrip;
+- Breakpoint - Pontos de parada para análise e validação de parte do código.
+- Deploy - Publicação de parte do código;
+- DPI - Proporção de pontos na tela (resolução);
+- Favicon - Icone do site que está sendo visitado;
+- Meta tags - Tags introduzidas nos headers do sites;
+- MVC - Model Viewer Controler - Arquitetura utilizada para separar a estrutura dos dados, a visualização e a lógica alicada no site; 
+- MVP - Minimum Viable Product - Produto disponibilizado com os mínimos recursos com intuito de testes de viabilidade;
+- SSL - Camada de segurança dos sites;
+- UI - User interface;
+- UX - User experience;
+- WYSIWYG - What You See Is What You Get - Edição de textos e imagens cuja formatação é vista da mesma maneira que a programada.
+ 
+
+
+
+
+ 
+
+
+   
