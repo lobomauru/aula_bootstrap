@@ -1,0 +1,25 @@
+## HTML5
+
+#### Semântica
+
+###### Elementos:
+
+- <section> - Seçao genérica de artigos;
+- <header> - Cabeçaho;
+- <article> - Conteúdo relevante da página;
+- <aside> - Relacionado ao tópico principal como um biografia do autor ou links relacionados;
+- <footer> - Rodapé;
+- <h1>...<h6> - Tamanho da fonte. Só pode haver apenas um <h1> por página;
+- <p> - Conteúdo de texto maiores;
+- <a> - Âncora. Interliga conteúdos na internet;
+-- <a href=""> - Interliga links da internet;
+-- <a target=""> - Informa como o link ancorado no <a href=""> vai ser aberto;
+- <img> - Adiciona uma imagem ao site:
+-- <img src=""> - Sintaxe da adição, podendo ser uma imagem local ou link.
+-- <img alt=""> - Referencia a imagem e disponibiliza um texto para em em caso da imagem não estar mais disponível;
+- <ul> - Lista elementos sem uma ordem definida;
+- <ol> - Lista elementos com ordem podendo ser em números, letras ou algarismos romanos; 
+- <li> - Adiciona os itens da lista;
+
+## CSS3
+
