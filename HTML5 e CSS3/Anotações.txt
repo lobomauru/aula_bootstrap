@@ -1,10 +1,11 @@
 ## HTML5
 
-#### Semântica
+#### Semântica:
 
 ###### Elementos:
 
 - <section> - Seçao genérica de artigos;
+- <head> - Serve para passar informações ao navegador que não serão apresentadas na tela para o usuário. É dentro dessa tag, por exemplo, que pedimos para o navegador carregar um arquivo CSS dentre outras coisas!
 - <header> - Cabeçaho;
 - <article> - Conteúdo relevante da página;
 - <aside> - Relacionado ao tópico principal como um biografia do autor ou links relacionados;
@@ -22,4 +23,7 @@
 - <li> - Adiciona os itens da lista;
 
 ## CSS3
+
+#### Seletores:
+
 
