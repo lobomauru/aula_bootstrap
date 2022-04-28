@@ -26,4 +26,20 @@
 
 #### Seletores:
 
+-background: Cor do plano de fundo - Pode ser o nome em inglês ou valor hexadecimal;
+-border: Largura da borda - Valores em px;
+-border-radius: Curvatura da borda - Valores em percentuais;
+-font-family: Tipo de letra - Nome da fonte;
+-font-size: Tamanaho da Letra - Valores em px;
+-font-style: Estilo da fonte - Pode ser normal (normal), italic ou oblique (ambos inclinadas);
+-font-weight: Peso da fonte - Pode ser normal (normal), bold (negrito), lighter (peso mais claro que o normal) e bolder (atribui um peso específico. ex.: 500);
+-list-style-type: Altera o marcador da lista - Pode ser square (altera para quadrado), pode ser upper-roman (altera para algarismos romanos em caixa alta), "\1F44D" (altera para um emoji)
+-list-style-img: 
+-margin: Margem de todos os lados - Valores em px;
+-margin-bottom: Margem apenas da parte inferior - Valoeres em px;
+-padding: Espaçamanento geral entre a borda e o texto/imagem - Valores em px;
+-padding-bottom: Espaçamanento inferior entre a borda e o texto/imagem - Valores em px;
+-text-decoration: Coloca linhas no texto - Pode ser underline (linha abaixo do texto), overline (linha acima do texto) e line-through (linha no meio do texto);
+-text-transform: Define a caixa do texto - Pode ser uppercase (todo o texto em caixa alta), lowercase (todo o texto em caixa baixa) ou capitalize (primeira letra da cada palavra com a caixa alta);
+
 
